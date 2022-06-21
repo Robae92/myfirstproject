@@ -1,0 +1,25 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+}
+
+p {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(23, 97, 16);
+    border: 1px solid black;
+}
+
+div {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(215, 29, 29);
+    border: 1px solid rgb(171, 0, 223);
+}
+
+h1 {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(16, 39, 191);
+    border: 1px solid rgb(171, 0, 223);
+}
